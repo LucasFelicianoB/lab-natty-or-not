@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Crazy magic pill AI
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesse projeto, cedi me lindo rostinho para uma IA tentar recriar tanta beleza.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizado a camera do celular, a ferramenta artflow (https://app.artflow.ai/) e a IA da propria galeria da Samsung
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Com a câmera do celular, tirei cerca de 15 imagens com boa iluminação e qualidade. Em seguida, fiz o upload das imagens para o site da ArtFlow, que criou um avatar com base no meu rosto e gerou imagens a partir dos prompts que inseri na ferramenta. Após obter as imagens, utilizei a IA da galeria do celular para remover a marca d’água e realizar um tratamento para melhorar a qualidade.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Segue as imagens criadas:
+![20240805_144308](https://github.com/user-attachments/assets/cc852537-6c2a-413d-9d8a-a956ac4ae40c)
+![20240805_144216](https://github.com/user-attachments/assets/88d7a5f8-badb-4776-8360-2b5a85e1da13)
+![20240805_144123](https://github.com/user-attachments/assets/0251b397-9062-4e67-9979-a6747c3d4167)
+![20240805_143934](https://github.com/user-attachments/assets/8668d2e1-6c1a-4714-8f4f-b67a3acce325)
+![20240805_143812](https://github.com/user-attachments/assets/b6d80f8e-74e1-4504-b551-68cf3033b2bb)
+![20240805_144408](https://github.com/user-attachments/assets/8ebcccb4-48f5-4b2b-a35f-c179c6b2a616)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Foi incrivelmente fácil e rápido criar todas essas imagens, levando menos de 20 minutos. Isso me faz pensar: será que no futuro os ensaios fotográficos serão realizados dessa maneira?
